@@ -178,7 +178,7 @@ Conducted structured reconnaissance exercises across all lab targets using Nmap.
 
 ## Connect
 
-**LinkedIn:** [linkedin.com/in/christopher-romero](https://linkedin.com/in/christopher-romero)  
+**LinkedIn:**  www.linkedin.com/in/christopher-romero-07a441402 
 **Email:** christopher.romero3924@gmail.com  
 **Location:** San Bernardino County, CA — Open to Remote & On-Site
 
