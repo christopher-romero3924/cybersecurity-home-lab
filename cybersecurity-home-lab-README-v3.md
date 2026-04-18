@@ -9,7 +9,7 @@ All machines run simultaneously on a single physical host using VirtualBox — s
 ## Lab Overview
 
 **Hypervisor:** Oracle VirtualBox  
-**Host OS:** Windows  
+**Host OS:** Windows 10 Pro  
 **Total VMs:** 8  
 **Network Design:** Segmented internal network — corporate zone, monitoring zone, and attacker zone
 
